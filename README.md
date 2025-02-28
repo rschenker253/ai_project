@@ -30,9 +30,8 @@ Job Application Process (Employer)
 | Schedule Virtual Interview | Zoom / Google Meet platform                                                                        |
 
 ## Platform Goals
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
-- Placeholder
+- Reduce the time taken to do the tasks manually
+- Enable users & employers to use just one platform instead of multiple software from recruiting to job offer process
+
+## Architecture Overview
 
