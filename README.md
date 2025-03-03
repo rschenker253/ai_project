@@ -33,15 +33,48 @@ Job Application Process (Employer)
 ## Platform Goals
 - Reduce the time taken to do the tasks manually
 - Enable users & employers to use just one platform instead of multiple software from recruiting to job offer process
+- Utilize new technologies to create a better product than existing products on the market 
 
 ## Functional Requirements
-- User Authentication: Users can sign up, login to their account on the platform
-- Job listings: Listings are web-scraped from companies itself. The companies will be Singapore fin-tech companies.
+Job Seekers
+- User Authentication: Users can sign up/login/reset their account on the platform
+- Job listings: Listings are web-scraped from companies itself. The companies will be Singapore fin-tech companies
+- Jobs Tracker: Users will be able to extract job application details from hyperlink and save them on platform or export as csv. This will be useful for users to track all their job applications on one page 
+- Jobs Application Filler: Input details from resume for job applications without manually input
+- Jobs Application Reviewer: Score will be generated when comparing their resume and job description. Users need not apply for the role if the score is low
+- Resume Helper: Users will upload their resume / cover letter for review. The tool will explain on how to improve and what points to improve.
+- Test Helper: Users will be able to practice common interview questions and leetcode questions and psychometric test questions. The tool will review and comment on what to improve
+- Interview Helper: Users will be able to practice mock interview sessions or technical interview questions with a real person
+
+Employers
+- User Authentication: Employers can sign up/login/reset their account on the platform
+- AI Agents: Create AI-Agents that handle each of the functions below
+- Schedule interviews: Schedule interviews with panel and interviewees
+- Job listings: Able to post job listings on their website and review candidates applications 
+- Test Checker: Review or Check that candidate is not using any AI-tools to answer the questions
+- Job Application Chatbot: Answer questions relevant to the job application or asked by job seeker
 
 ## Non-Functional Requirements
+- Security
+- Performance
+
+## Technical Requirements
+- Backend: Django
+- Frontend: ??
+- Database: SQL
+- APIS: ??
 
 ## Architecture Overview
+- Placeholder
 
 ## Tools 
-- Work Saver: It allows users to save applied job appication details to track their all applications. 
+- Job Tracker: It allows users to save applied job appication details to track their all applications.
+
+## Design 
+- Job Seekers Platform
+![job_seeker_sketch](https://github.com/user-attachments/assets/d941f092-da07-45df-86d0-8a8207d0a293)
+
+- Employers Platform
+![employers_sketch](https://github.com/user-attachments/assets/836b981f-61db-477a-b808-a4809b6861b7)
+
 
