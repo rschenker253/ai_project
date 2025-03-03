@@ -70,11 +70,16 @@ Employers
 ## Tools 
 - Job Tracker: It allows users to save applied job appication details to track their all applications.
 
+
 ## Design 
 - Job Seekers Platform
 ![job_seeker_sketch](https://github.com/user-attachments/assets/d941f092-da07-45df-86d0-8a8207d0a293)
+![job_seeker_sketch_2](https://github.com/user-attachments/assets/3ea8d5a5-cd56-4f1a-a8f7-6398d72ad1a3)
+
+- Job Tracker
+![jobs_tracker](https://github.com/user-attachments/assets/f93d1a12-e21c-4e08-8658-1309850328fc)
 
 - Employers Platform
-![employers_sketch](https://github.com/user-attachments/assets/836b981f-61db-477a-b808-a4809b6861b7)
+- Placeholder
 
 
