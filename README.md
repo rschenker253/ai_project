@@ -63,13 +63,13 @@ Employers
 - Frontend: ??
 - Database: SQL
 - APIS: ??
+- Container: Docker
 
 ## Architecture Overview
 - Placeholder
 
 ## Tools 
 - Job Tracker: It allows users to save applied job appication details to track their all applications.
-
 
 ## Design 
 - Job Seekers Platform
@@ -82,4 +82,6 @@ Employers
 - Employers Platform
 - Placeholder
 
+## Coding Standards
+- https://peps.python.org/pep-0008/
 
